@@ -42,3 +42,4 @@
 - Agave Finance: Flashloan and reentrancy on gnosis, where native token has callback hook (no checks-effects-interaction protection) [Postmortem](https://medium.com/immunefi/a-poc-of-the-hundred-finance-heist-4121f23a098)
 - HopeLend: Empty market issue (same as the issue in Compound Finance) combined with rounding error [writeup](https://www.certik.com/resources/blog/5dHTzHnoARD1huRtxu0qvi-hopelend-incident-analysis)
 - Radiant Finance: Empty market issue (same as the issue in Compound Finance) combined with rounding error [writeup](https://blog.verichains.io/p/radiant-lending-pool-hack-analysis)
+- Polter Finance: Empty market issue [POC](https://github.com/SunWeb3Sec/DeFiHackLabs?tab=readme-ov-file#20241119-polterfinance---flashloan-attack)
